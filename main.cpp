@@ -21,6 +21,10 @@ using namespace dai;
 
 #define VAR_DIM 3
 
+void weightedvote() {
+
+}
+
 void print_usage(int signal)
 {
   cerr << "paradigm" 
